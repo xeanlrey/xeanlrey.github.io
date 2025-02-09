@@ -1,1 +1,1 @@
-# xeanlrey.github.io
+# https://github.com/xeanlrey/xeanlrey.github.io/releases/tag/v1.0
